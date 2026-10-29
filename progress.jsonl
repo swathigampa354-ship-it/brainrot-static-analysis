@@ -1,0 +1,929 @@
+{"ts": "2026-10-29T22:32:49+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:32:49+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:32:49+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:32:49+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:32:49+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:32:49+0530", "step": "class inventory", "ok": true, "detail": "93 classes"}
+{"ts": "2026-10-29T22:33:21+0530", "step": "class", "ok": true, "detail": "BlockReelsOverlayActivity.java 5426 chars sha 1d403dc625"}
+{"ts": "2026-10-29T22:33:21+0530", "step": "class", "ok": true, "detail": "BrainRotApplication.java 16247 chars sha 7f88345154"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "MainActivity.java 15992 chars sha 6caafa3e7c"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "PermissionStepsOverlayActivity.java 6184 chars sha 1f115072e0"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "R.java 318913 chars sha b248081ccc"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "RatingPromptOverlayActivity.java 6202 chars sha 517ee5dee0"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.BrainRotBaseActivity.java 3452 chars sha 3051fc9210"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.data.data_source.BrainRotRoomDatabase.java 476 chars sha 0a2ad66996"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.data.data_source.BrainRotRoomDatabase_Impl.java 8172 chars sha 2bec388c13"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.data.data_source.UserPrefDatabase.java 308 chars sha 45b81deef8"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.data.data_source.UserPrefDatabase_Impl.java 2341 chars sha d69675a8aa"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.data.remote.BrainRotApi.java 508 chars sha 033266c2ed"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.AppInstallationHistory.java 3104 chars sha b7f38449df"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.AppOpenDailySplit.java 4561 chars sha 5a991bf8cc"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.DailyReelsAppSplit.java 6022 chars sha 22e248e269"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.MigrationKey.java 671 chars sha 10b85b06a8"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.MigrationStatus.java 2262 chars sha 4e046c2bb5"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.PhoneUnlockDaily.java 3404 chars sha 160dc346a5"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.ReelsScrollEvent.java 4326 chars sha 493718509e"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.UserBlockingConfig.java 9334 chars sha 9e1169bf60"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.UserPrefBoolean.java 2254 chars sha 38e1f6ab31"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.UserPrefLong.java 2236 chars sha 74ef290944"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.model.UserPrefString.java 2334 chars sha 40984cbbcc"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.domain.network.FileDownloadApi.java 474 chars sha 2efa1f055b"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.receiver.DateChangedReceiver.java 2683 chars sha a42d9cd6d6"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.BlockConfigSyncWorker.java 3170 chars sha 1113ffe776"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.D1RetentionWorker.java 2038 chars sha d1f707e7b7"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.DailyDeviceImpactAnalyticsWorker.smali (server fallback) 5678 chars sha 0e6471b2dc"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.DailyHeartbeatWorker.java 2217 chars sha 879434e2b8"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.FriendsUpdateWorker.java 2514 chars sha 3fd8d3361c"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.PermissionMonitorWorker.smali (server fallback) 16257 chars sha fe256ff8a0"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.ReelsEventsPruneWorker.smali (server fallback) 9564 chars sha 620a4297a6"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.ReelsSyncWorker.smali (server fallback) 10025 chars sha 4e9e64141f"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "core.worker.SaveFCMTokenWorker.java 4583 chars sha b596e65d10"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "feature_account.data.remote.AccountApi.java 624 chars sha 68f7da980e"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "feature_account.data.remote.DeleteUserDataResponse.java 1477 chars sha 9d288ab123"}
+{"ts": "2026-10-29T22:33:22+0530", "step": "class", "ok": true, "detail": "feature_account.data.remote.VoteSummaryResponse.java 4972 chars sha 7e53b8bdd4"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_duel.domain.use_case.DayStats.java 2440 chars sha 8b845d9a2d"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_fallback_counter.FallbackReelsCounterService.smali (server fallback) 133762 chars sha 8b42e67bc0"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_fallback_counter.FallbackTierHeartbeatWorker.java 1037 chars sha 51073d3c7a"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_fallback_counter.TierBootReceiver.java 2031 chars sha 25f60ea36d"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_feedback.data.remote.FeedbackUploadApi.java 604 chars sha d6667cedb5"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_feedback.worker.FeedbackUploadWorker.smali (server fallback) 45944 chars sha 6655cde413"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.data_source.InviteDatabase.java 357 chars sha a2c0bd4d47"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.data_source.InviteDatabase_Impl.java 3310 chars sha 3b39599afd"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.AcceptInviteResponse.java 1452 chars sha 5e4d3c70eb"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.CreateInviteLinkResponse.java 2310 chars sha 16f7cd9e03"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.FriendInfo.java 4634 chars sha 642626441d"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.GetFriendsResponse.java 1551 chars sha e994450577"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.InviteApi.java 1198 chars sha f13bfc4b35"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.InviteDetailsResponse.java 2397 chars sha 637dc662cd"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_invite.data.remote.RemoveFriendResponse.java 1452 chars sha d6c6ab6f26"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_permission.domain.model.PermissionLogs.java 2862 chars sha ffba2299d2"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.data.data_source.WeekEventDb.java 2519 chars sha 274e067ddc"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.AppReelsStats.java 3144 chars sha c826e27d78"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.DailyReelsStats.java 3144 chars sha 03bea07c3f"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.Friends.java 2116 chars sha 08008b3666"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.OneFriend.java 4551 chars sha 160b9293cc"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.ProfileInfo.java 3845 chars sha 29c08a80de"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.ReelsScrollEvent.java 4034 chars sha 4cf5421c9d"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_reels_counter.domain.model.ReelsStats.java 3874 chars sha 1d02c3cd8f"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_subscription.domain.model.BrainPalPaymentMethod.java 445 chars sha bbb7e91fbc"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_subscription.domain.model.SubscriptionState.java 7768 chars sha 1173b6584f"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_subscription.domain.receiver.BackPressOfferExpiryNotificationReceiver.java 2901 chars sha c8c577eecb"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.AppOpenCounterWidgetReceiver.java 420 chars sha 2b4341bb5a"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.AppUpdateReceiver.java 2605 chars sha 391a9233e9"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.ReelsCounterWidgetExpandedReceiver.java 951 chars sha c54a2f4a1d"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.ReelsCounterWidgetReceiver.java 943 chars sha e99202558b"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.WidgetPinResultReceiver.java 1483 chars sha 5308495554"}
+{"ts": "2026-10-29T22:33:23+0530", "step": "class", "ok": true, "detail": "feature_widget.presentation.widget.WidgetVisibilityProvider.java 1729 chars sha a8d2bea8fc"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "floating_bubble.AppOpenFloatingService.java 9171 chars sha 3f2162d581"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "floating_bubble.ReelsCounterFloatingService.smali (server fallback) 146573 chars sha 9597e55268"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.AppSplitItem.java 3384 chars sha afbee1a20d"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.AppSplitRequest.java 3817 chars sha 0ead70c63c"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.BlockReelsState.java 6157 chars sha 592bfb1967"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.BrainRotStatsApiService.java 1970 chars sha 789bd7bea0"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.ConfigUpdateResponse.java 2109 chars sha 95b97c7f79"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.DuelCountResponse.java 4674 chars sha a38de9aeb9"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.FriendListDelta.java 2581 chars sha 2819e29289"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.FriendStatsDelta.java 3784 chars sha db076a4e13"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.MySplitDelta.java 5188 chars sha 5866e46530"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.OtherDeviceSplitItem.java 4799 chars sha c4e6d840b8"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.RestoreSplitItem.java 4785 chars sha 76abd5dbbb"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.ScrollUpdateRequest.java 3129 chars sha 0b793ddcc9"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.ScrollUpdateResponse.java 3147 chars sha 25e749c46c"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.SyncRequest.java 5924 chars sha 892c9b84ab"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.SyncResponse.java 4614 chars sha 9337e4cc9e"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.SyncUserResponse.java 2801 chars sha 6592d68abb"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "network.UserRestoreResponse.java 2763 chars sha dc78802d02"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "services.BrainRotFirebaseMessagingService.java 11898 chars sha 676204960d"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "services.ReelsAccessibilityService.smali (server fallback) 247446 chars sha 30c09bb7c9"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "workers.FileDeleteWorker.java 3402 chars sha bebfce78c2"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "class", "ok": true, "detail": "workers.FileDownloadWorker.java 5291 chars sha ffabf72cab"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\"}"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.data.AppDatabase_Impl\"}"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_method:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\", \"method_n"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"http://\"}"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"Retrofit\"}"}
+{"ts": "2026-10-29T22:33:24+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"allowBackup\"}"}
+{"ts": "2026-10-29T22:33:25+0530", "step": "summary", "ok": true, "detail": "java=85 smali=8 errors=3"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:40:21+0530", "step": "class inventory", "ok": true, "detail": "200 classes"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.a.java 9151 chars sha 6ef343fd43"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.a0.java 7454 chars sha ac30d1a8d8"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.a1.java 3706 chars sha 0a694705cf"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.b.java 466 chars sha 0ae70fb576"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.b0.java 1069 chars sha 5a39522e52"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.b1.java 5167 chars sha 0e46d42aaf"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.c.java 4838 chars sha e747d790c4"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.c0.java 360 chars sha 3f160f4eb2"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.c1.java 2416 chars sha d7f4db0de8"}
+{"ts": "2026-10-29T22:41:48+0530", "step": "class", "ok": true, "detail": "a1.d.java 698 chars sha f55d91f23c"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.d0.java 46971 chars sha bc328cfe79"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.d1.java 17134 chars sha f59ee11f61"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.e.java 1054 chars sha 2ee489d22c"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.e0.java 5461 chars sha 2dc7f0ff9e"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.e1.java 17867 chars sha 686669c2b7"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.f.java 2819 chars sha 6c3c8a99cc"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.f0.java 4582 chars sha cfed4f4ce2"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.f1.java 4230 chars sha bc8c761f1c"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.g.java 551 chars sha b4efc4e131"}
+{"ts": "2026-10-29T22:41:50+0530", "step": "class", "ok": true, "detail": "a1.g0.java 9256 chars sha cf87984730"}
+{"ts": "2026-10-29T22:41:51+0530", "step": "class", "ok": true, "detail": "a1.g1.java 3882 chars sha 33f1e82156"}
+{"ts": "2026-10-29T22:41:51+0530", "step": "class", "ok": true, "detail": "a1.h.java 1210 chars sha e2563e3cdf"}
+{"ts": "2026-10-29T22:41:51+0530", "step": "class", "ok": true, "detail": "a1.h0.java 13068 chars sha e912888320"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.h1.java 16534 chars sha 522a14cdee"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.i.java 431 chars sha 501b9e0e4d"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.i0.java 217 chars sha a7469a9212"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.i1.java 1518 chars sha 582fa519d8"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.j.java 716 chars sha 129fa4a5bf"}
+{"ts": "2026-10-29T22:41:52+0530", "step": "class", "ok": true, "detail": "a1.j0.java 3820 chars sha eb6198fa64"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.j1.java 21262 chars sha ecba46a32f"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.k.java 576 chars sha f23ed1eb02"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.k0.java 8679 chars sha 4af22de490"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.k1.java 1477 chars sha 98f155d963"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.l.java 1272 chars sha 8e739fdcc1"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.l0.java 953 chars sha bc1fdf1f53"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.l1.java 1043 chars sha 1c4a87d728"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.m.java 2525 chars sha 3a43658fb5"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.m0.java 1894 chars sha 28ce065579"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.m1.java 59087 chars sha 227a41ae44"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.n.java 283 chars sha df81b515ad"}
+{"ts": "2026-10-29T22:41:53+0530", "step": "class", "ok": true, "detail": "a1.n0.java 3022 chars sha 70ca2017b0"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.n1.java 13599 chars sha 9a1af6c876"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.o.java 771 chars sha c3b03d9aef"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.o0.java 5929 chars sha 18571552fa"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.o1.java 37355 chars sha 151e93b6e1"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.p.java 2368 chars sha e0a376281a"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.p0.java 810 chars sha 58a2a48db6"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.p1.java 207 chars sha 5e11b8c6cc"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.q.java 257 chars sha 47ed0e3fd3"}
+{"ts": "2026-10-29T22:41:54+0530", "step": "class", "ok": true, "detail": "a1.q0.java 219 chars sha 104d2765aa"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.q1.java 266 chars sha b77621443e"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.r.java 484 chars sha e7e18e487d"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.r0.java 1726 chars sha a01973869a"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.r1.java 543 chars sha 0633514a55"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.s.java 263 chars sha c25d4edd36"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.s0.java 370 chars sha a6a26f6458"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.s1.java 410 chars sha a761f73df1"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.t.java 1279 chars sha 597d0343b0"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.t0.java 31268 chars sha 4594f1838d"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.t1.java 310 chars sha 19eedad217"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.u.java 1643 chars sha 61c65231ec"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.u0.java 311 chars sha ac935a6b59"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.u1.java 422 chars sha 9fe26e55e7"}
+{"ts": "2026-10-29T22:41:55+0530", "step": "class", "ok": true, "detail": "a1.v.java 10787 chars sha 90781896d5"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.w.java 3040 chars sha 96120a125c"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.w0.java 4667 chars sha 065b113f1e"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.x.java 10962 chars sha d6e75a6155"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.x0.java 1556 chars sha 9616330eaa"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.y.java 817 chars sha 574081a533"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.y0.smali (server fallback) 31557 chars sha a27d160c15"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.z.java 1748 chars sha 04413074bf"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "a1.z0.java 1809 chars sha 8f9f6b064a"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.a.java 445 chars sha 6bf72c6cc9"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.b.java 29567 chars sha 992652cbd1"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.c.java 23256 chars sha 9e11d9e2b9"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.d.java 605 chars sha 4174cafa39"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.e.java 996 chars sha 5553ea89d4"}
+{"ts": "2026-10-29T22:41:56+0530", "step": "class", "ok": true, "detail": "ab.f.java 558 chars sha 6a90a4a4c9"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.g.java 10307 chars sha 24f4e0f33f"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.h.java 1408 chars sha 9de38d5644"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.i.java 41895 chars sha 7e82aafb48"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.j.java 3267 chars sha 964f3b55e5"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.k.java 388 chars sha 6f6b388303"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.l.java 1155 chars sha 52ec9d5ff6"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.m.java 444 chars sha c87d663b53"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.n.java 388 chars sha 074a2ccd0f"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.o.java 441 chars sha bc1f3a3cfc"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.p.java 388 chars sha dbf8f5ea27"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.q.java 918 chars sha 4f1149ed49"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.r.java 5281 chars sha 1bdbbb9e55"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.s.java 10035 chars sha b6d0ee8faf"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.t.java 10111 chars sha f02424712a"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.u.java 2492 chars sha 84269e78c7"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.v.java 16858 chars sha b1b662e660"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.w.java 1159 chars sha fa26f93f74"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.x.java 4495 chars sha b666711894"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.y.java 469 chars sha 70772160fd"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ab.z.java 388 chars sha bea1efef4d"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.a.java 4093 chars sha 99d430e2af"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.b.java 394 chars sha 5283ea433e"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.c.java 1397 chars sha ffad973c18"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.d.java 319 chars sha 6f09e5ac4a"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.f.java 39483 chars sha 4234cc7103"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.g.java 6201 chars sha 27282a0291"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.h.java 5152 chars sha ef4b49765c"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.i.java 784 chars sha 2ad133e808"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.j.java 394 chars sha 671ae7d9e5"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.k.java 2363 chars sha f6109df7c2"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.m.java 395 chars sha 46f61ccea8"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.n.java 915 chars sha 453ab1a14b"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.o.java 184 chars sha c2821dc085"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.p.java 4623 chars sha dd8616d492"}
+{"ts": "2026-10-29T22:41:57+0530", "step": "class", "ok": true, "detail": "ad.q.java 1158 chars sha d79cc84c69"}
+{"ts": "2026-10-29T22:41:58+0530", "step": "class", "ok": true, "detail": "ad.r.smali (server fallback) 73989 chars sha 8cb1c06d25"}
+{"ts": "2026-10-29T22:42:00+0530", "step": "class", "ok": true, "detail": "ae.a.smali (server fallback) 181203 chars sha a48ad3e3ff"}
+{"ts": "2026-10-29T22:42:00+0530", "step": "class", "ok": true, "detail": "ae.b.java 1059 chars sha a292c08621"}
+{"ts": "2026-10-29T22:42:00+0530", "step": "class", "ok": true, "detail": "ae.c.java 31223 chars sha d3e0518b11"}
+{"ts": "2026-10-29T22:42:00+0530", "step": "class", "ok": true, "detail": "ae.d.smali (server fallback) 15146 chars sha b62cc8ce6b"}
+{"ts": "2026-10-29T22:42:00+0530", "step": "class", "ok": true, "detail": "ae.e.java 1125 chars sha 442ac70cf6"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "ae.f.smali (server fallback) 138580 chars sha dc31dc43a8"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "ae.g.java 1266 chars sha f2c03d9d47"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "ae.h.smali (server fallback) 29894 chars sha 31505f33b4"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.a.java 1492 chars sha 9d07ba5ee4"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.b.java 1151 chars sha c1dc8d36d4"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.c.java 2512 chars sha c5bf6de2c7"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.d.smali (server fallback) 14274 chars sha 1dd9c5eeaa"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.e.java 1270 chars sha b8c13411da"}
+{"ts": "2026-10-29T22:42:01+0530", "step": "class", "ok": true, "detail": "af.f.java 1270 chars sha a3600f692f"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.g.java 2566 chars sha d4d603e30f"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.h.java 1270 chars sha 08dede5c2c"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.i.java 1486 chars sha 070e3067f7"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.j.java 2030 chars sha dcda1486ec"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.k.java 184 chars sha 35eb7ed149"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.l.smali (server fallback) 24338 chars sha 11d8d2c067"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.m.java 945 chars sha e020e5115d"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.n.java 4873 chars sha 4bcd79e2dd"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.o.java 1963 chars sha ca8a0cf356"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "af.p.java 184 chars sha 7c5dae2f94"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.a.java 628 chars sha 4751cea61c"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.b.java 633 chars sha 2ae9a35d8b"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.c.java 3496 chars sha 601f5399bb"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.e.java 8671 chars sha 7ab6acf559"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.f.java 2842 chars sha d93cd81b8e"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.g.java 4521 chars sha d3fb49ca36"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.h.java 38146 chars sha 784b34bffc"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.i.java 3115 chars sha 00ee4d52f4"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.j.java 1368 chars sha 5174575caa"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.k.java 3109 chars sha e2fb1234b4"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.l.java 12566 chars sha 5a572bf689"}
+{"ts": "2026-10-29T22:42:02+0530", "step": "class", "ok": true, "detail": "ai.m.java 2243 chars sha 48051a135c"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.AuthLibrary.java 3095 chars sha eb35238617"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.data.remote.AuthApiService.java 950 chars sha 7e8db5e2aa"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthConfig.java 2609 chars sha 0a877e5dd8"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthErrorType.java 2448 chars sha 7046239ed5"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthResult.java 4109 chars sha e4e181d46f"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthUserProfile.java 7039 chars sha 84e6c241b9"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthUserProfileInfo.java 5716 chars sha d5f9b95690"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthUserProfileInfoKt.java 853 chars sha 67957632a1"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.AuthUserProfileKt.java 628 chars sha ce390a4206"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.RefreshTokenRequest.java 1526 chars sha d2f0908486"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.auth.domain.model.RefreshTokenResponse.java 2255 chars sha 521c7add0e"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.cache.data.data_source.CachedResponse.java 5055 chars sha 7bdadc392a"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.cache.data.data_source.ResponseCacheDatabase.java 439 chars sha e29d7868a5"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.cache.data.data_source.ResponseCacheDatabase_Impl.java 1948 chars sha d0b7a9912c"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.cache.data.interceptor.CacheKeyBuilder$mapType$1.java 357 chars sha 41919fb8ef"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.data.remote.PaymentsApi.java 3165 chars sha b5ec8ca280"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.LatestOneTimeOrderResponse.java 9867 chars sha 3d36e00085"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.OrderSetupResponse.java 2896 chars sha 1b01c50ba0"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.OrderSetupResult.java 426 chars sha f00e40877b"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.OrderState.java 656 chars sha 191be98e42"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.OrderStatusResponse.java 9740 chars sha 4fb5c797af"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.OrderStatusResult.java 429 chars sha 99df09a9e6"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.Providers.java 626 chars sha ab4b2d879f"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.RegainSubscriptionState.java 792 chars sha e27f80975b"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.RegainSubscriptionStatus.java 16954 chars sha 366c632ccd"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.SetupSubscriptionResponse.java 7043 chars sha c4dfc307ad"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.SubscriptionSetupResult.java 447 chars sha fa542c74b0"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.SubscriptionStatusResponse.java 8825 chars sha bd0340547d"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.domain.models.SubscriptionStatusResult.java 450 chars sha 04920f3e37"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.sharing.PaymentsFileProvider.java 256 chars sha 14b61f6a87"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "ai.regainapp.payments.ui.CheckoutActivity.java 18631 chars sha 0f10512899"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.a.java 949 chars sha 4e82bfabe4"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.a0.java 1193 chars sha 8045080526"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.b.java 10277 chars sha d0caed8bd6"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.b0.java 384 chars sha 54fc9fade2"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.c.java 1073 chars sha 59c6c7964d"}
+{"ts": "2026-10-29T22:42:03+0530", "step": "class", "ok": true, "detail": "bh.c0.java 1500 chars sha d43f59eaa4"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.d.java 16584 chars sha c37ac678f3"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.d0.java 971 chars sha c82599f573"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.e.java 857 chars sha 4b841877af"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.e0.java 1318 chars sha d7bd6a7e4d"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.f.java 742 chars sha f07c2e790f"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.f0.java 409 chars sha 15e4d942fe"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.g.java 955 chars sha d30305e069"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.g0.java 555 chars sha 34e2f078fe"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.h.java 1842 chars sha 0526791cbc"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.i.java 857 chars sha fa97fc75dd"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.j.java 4730 chars sha 0599c0c107"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.k.smali (server fallback) 16885 chars sha 0ec4f8c88d"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "class", "ok": true, "detail": "bh.l.java 510 chars sha 703324159b"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\"}"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.data.AppDatabase_Impl\"}"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_method:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\", \"method_n"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"http://\"}"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"Retrofit\"}"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"allowBackup\"}"}
+{"ts": "2026-10-29T22:42:04+0530", "step": "summary", "ok": true, "detail": "java=191 smali=9 errors=3"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "class inventory", "ok": true, "detail": "targeted=312"}
+{"ts": "2026-10-29T22:46:08+0530", "step": "summary", "ok": true, "detail": "java=0 smali=0 errors=0"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:47:46+0530", "step": "class inventory", "ok": true, "detail": "targeted=312"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": true, "detail": "a2.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": false, "detail": "a5.d: lost/empty"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": false, "detail": "ad.e: lost/empty"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": false, "detail": "ad.l: lost/empty"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": false, "detail": "ag.j: lost/empty"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": false, "detail": "ak.t: lost/empty"}
+{"ts": "2026-10-29T22:48:06+0530", "step": "class", "ok": true, "detail": "android.support.v4.media.session.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.f0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.k0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.m0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": true, "detail": "b0.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "b1.p: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "b3.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bb.d: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.e: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.g: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.j: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.k: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.l: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bd.n: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bh.r: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bh.s: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "bo.b: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "c4.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.b0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.f0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.k0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.s: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.u: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ch.v: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ci.e: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "cj.w: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "cm.f: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "com.pairip.application.Application: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "d0.h: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "d0.i: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "d3.f0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "de.b: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "de.i: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "de.k: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "de.l: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "de.q: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.h: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.j: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.j0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.k0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.l0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.m: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ed.m0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": true, "detail": "ef.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": true, "detail": "ei.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "ei.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": true, "detail": "el.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "f1.n1: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "f1.t1: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "f1.w1: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "f1.z: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "f6.r0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "fe.l: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "fe.n: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "fg.b: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gc.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gd.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gd.d: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gg.c: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gg.e: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gg.f: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.g: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.i0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.k: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.p: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.s0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "gi.v0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.c0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.d0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.e0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.f0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.k0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.l0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.m0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.n0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.o0: lost/empty"}
+{"ts": "2026-10-29T22:48:07+0530", "step": "class", "ok": false, "detail": "hi.p0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.q0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.r0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.t0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.u0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.v0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.w0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hi.x0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "hq.c: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ht.g: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "i2.n: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ih.c: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ih.e: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ii.c0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ii.q: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "jo.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "k1.l: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "kd.e: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ke.p: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ke.v0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "kh.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "ki.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.e0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.f: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.g: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.h: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.i: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.j: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.k: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.l: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.n: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.o: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.p: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.q: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.r: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ki.t: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "kj.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "m1.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "mf.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "mf.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "mg.c2: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "mg.h3: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "mg.w2: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "mg.y: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "n.g: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "n7.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "nd.f: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "nh.c: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "nh.i: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "o1.h: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "of.u: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "og.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "oi.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "om.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "om.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "p0.p1: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": true, "detail": "pd.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.c: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.e: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.f: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.g: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.h: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pd.i: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "pi.y1: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "q.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "q.p: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "q1.m: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "q1.v: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "q5.p: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qc.t: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qe.w: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qf.a0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qf.f: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qg.m: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "qh.j: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "r.p: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "r0.b0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "r2.l: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rh.b0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rh.d0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rh.l0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rh.n0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "ro.o: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rp.j: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "rs.u: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "s6.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sa.n0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.b: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.c: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.c0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.d: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.e0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.f: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.f0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.g: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.h: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.h0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.i: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.i0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.j: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.j0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.k: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.k0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.l0: lost/empty"}
+{"ts": "2026-10-29T22:48:08+0530", "step": "class", "ok": false, "detail": "sc.m0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.n0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.p0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.q: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.r0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.s0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.t0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.y: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sc.z: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "sd.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "sf.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "si.g: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "sj.x: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "t0.c2: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ta.p: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "tf.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "tf.b: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "tf.c: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "u1.g: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ue.c: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vd.l0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vd.p0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.a0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.c0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.e0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.g: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.h: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.t: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.v: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.x: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.y: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ve.z: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vf.c: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vf.e: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "vh.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.d: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.d0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.g0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.o0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.p0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "vh.r0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "w.k: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "w4.b: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "w4.c: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wa.h: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wc.h: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wc.j: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wc.m: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wc.p: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "wd.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "we.d: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "we.e: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "we.l: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "we.m: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "we.o: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wf.j: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.c: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.d: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.e: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.f: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.j: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "wg.p: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "x.e: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "x9.a0: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.f: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.k: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.m: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.n: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.o: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.p: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.q: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "xd.r: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "xe.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": true, "detail": "yb.a.smali (java failed: lost/empty) sha 13cfb30f32"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ye.b: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ye.k: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "ys.g: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "zf.m: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "class", "ok": false, "detail": "zq.f: lost/empty"}
+{"ts": "2026-10-29T22:48:09+0530", "step": "summary", "ok": true, "detail": "java=0 smali=19 errors=254"}
+{"ts": "2026-10-29T22:48:10+0530", "step": "summary", "ok": true, "detail": "java=0 smali=19 errors=254"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:49:19+0530", "step": "class inventory", "ok": true, "detail": "200 classes"}
+{"ts": "2026-10-29T22:55:04+0530", "step": "class", "ok": true, "detail": "a2.b.java 5941 chars sha 9e6fcd45c6"}
+{"ts": "2026-10-29T22:55:04+0530", "step": "class", "ok": true, "detail": "a2.c.java 12578 chars sha 2b3fa1f5fa"}
+{"ts": "2026-10-29T22:55:04+0530", "step": "class", "ok": true, "detail": "a2.d.java 16271 chars sha 0ee32c4bb6"}
+{"ts": "2026-10-29T22:55:04+0530", "step": "class", "ok": true, "detail": "a2.e.java 5093 chars sha 314bd8e5d9"}
+{"ts": "2026-10-29T22:55:06+0530", "step": "class", "ok": true, "detail": "a2.f.java 5779 chars sha bbaf642e37"}
+{"ts": "2026-10-29T22:55:06+0530", "step": "class", "ok": true, "detail": "a2.g.java 1408 chars sha 6f90b1cc94"}
+{"ts": "2026-10-29T22:55:07+0530", "step": "class", "ok": true, "detail": "a2.h.smali (server fallback) 27740 chars sha 17e164a991"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a2.i.java 3083 chars sha d6707acd63"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.a.java 1019 chars sha e36aafe865"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.b.java 2147 chars sha ca2799e4d7"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.c.java 595 chars sha 39f761404a"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.d.java 1303 chars sha 893b96352b"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.e.java 558 chars sha 644cc03d43"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.f.java 645 chars sha 303e8d1c7d"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.g.java 355 chars sha 90f0cb9bfb"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.h.java 1720 chars sha 933e11246c"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.i.java 6822 chars sha 8d5b0e0e26"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.j.java 1576 chars sha f76fb79fe0"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.k.java 1675 chars sha 798fee1711"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.l.java 802 chars sha 0db2ed3210"}
+{"ts": "2026-10-29T22:55:11+0530", "step": "class", "ok": true, "detail": "a5.m.java 15690 chars sha 682bb582bc"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.n.java 1506 chars sha 7ac798105b"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.o.java 567 chars sha 3e2c43f66f"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.p.java 232 chars sha 99aea34790"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.q.java 232 chars sha 34f44c1eef"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.r.java 232 chars sha ceea4bb7ea"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.s.java 232 chars sha 29484e116e"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.t.java 232 chars sha f5552c8bb6"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.u.java 232 chars sha 4ab145d0d2"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "a5.v.java 232 chars sha 6584e3d77b"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "ag.a.java 5226 chars sha 04c48d1c2a"}
+{"ts": "2026-10-29T22:55:13+0530", "step": "class", "ok": true, "detail": "ag.b.java 4069 chars sha 27269e5644"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.c.java 12498 chars sha 8c4ffb626e"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.d.java 3893 chars sha f6e94980c4"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.e.java 8873 chars sha 5375219124"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.f.java 2209 chars sha c66634b31a"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.g.java 582 chars sha 36eb7a5491"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.h.smali (server fallback) 46457 chars sha bb38b0512e"}
+{"ts": "2026-10-29T22:55:15+0530", "step": "class", "ok": true, "detail": "ag.i.java 948 chars sha 4b0a2ba8cf"}
+{"ts": "2026-10-29T22:55:29+0530", "step": "class", "ok": true, "detail": "ag.j.java 18020 chars sha 173888e062"}
+{"ts": "2026-10-29T22:55:41+0530", "step": "class", "ok": true, "detail": "ag.k.smali (server fallback) 8471 chars sha 058ee36b78"}
+{"ts": "2026-10-29T22:55:41+0530", "step": "class", "ok": true, "detail": "ag.l.java 4894 chars sha 1cd17f4e41"}
+{"ts": "2026-10-29T22:55:41+0530", "step": "class", "ok": true, "detail": "ag.m.java 2544 chars sha 596114ebb6"}
+{"ts": "2026-10-29T22:55:41+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\"}"}
+{"ts": "2026-10-29T22:55:41+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_class:{\"class_name\": \"com.brainrot.android.data.AppDatabase_Impl\"}"}
+{"ts": "2026-10-29T22:55:43+0530", "step": "xref", "ok": false, "detail": "get_xrefs_to_method:{\"class_name\": \"com.brainrot.android.one_drive_data_source.OneDriveDataSourceManagerImpl\", \"method_n"}
+{"ts": "2026-10-29T22:55:43+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"http://\"}"}
+{"ts": "2026-10-29T22:55:43+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"Retrofit\"}"}
+{"ts": "2026-10-29T22:55:43+0530", "step": "xref", "ok": true, "detail": "search_classes_by_keyword:{\"keyword\": \"allowBackup\"}"}
+{"ts": "2026-10-29T22:55:43+0530", "step": "summary", "ok": true, "detail": "java=40 smali=3 errors=3"}
+{"ts": "2026-10-29T22:58:43+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T22:58:43+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T22:58:44+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T22:58:44+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T22:58:44+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T22:58:44+0530", "step": "class inventory", "ok": true, "detail": "targeted=252"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "ad.e: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "ad.l: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "ak.t: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.f0: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.k0: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "androidx.lifecycle.m0: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "b1.p: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "b3.c: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "bb.d: lost/empty"}
+{"ts": "2026-10-29T22:59:46+0530", "step": "class", "ok": false, "detail": "bd.e: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bd.g: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bd.j: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bd.k: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bd.l: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bd.n: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bh.r: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bh.s: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "bo.b: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "c4.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.b0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.f0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.k0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.s: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.u: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ch.v: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ci.e: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "cj.w: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "cm.f: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "com.pairip.application.Application: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "d0.h: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "d0.i: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "d3.f0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "de.b: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "de.i: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "de.k: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "de.l: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "de.q: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.h: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.j: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.j0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.k0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.l0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.m: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ed.m0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ei.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "f1.n1: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "f1.t1: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "f1.w1: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "f1.z: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "f6.r0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "fe.l: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "fe.n: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "fg.b: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gc.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gd.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gd.d: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gg.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gg.e: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gg.f: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.g: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.i0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.k: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.p: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.s0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "gi.v0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.c0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.d0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.e0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.f0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.k0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.l0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.m0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.n0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.o0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.p0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.q0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.r0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.t0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.u0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.v0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.w0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hi.x0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "hq.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ht.g: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "i2.n: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ih.c: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ih.e: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ii.c0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ii.q: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "jo.d: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "k1.l: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "kd.e: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ke.p: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ke.v0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "kh.d: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.b: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.e0: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.f: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.g: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.h: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.i: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.j: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.k: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.l: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.n: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.o: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.p: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.q: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.r: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "ki.t: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "kj.d: lost/empty"}
+{"ts": "2026-10-29T22:59:47+0530", "step": "class", "ok": false, "detail": "m1.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "mf.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "mg.c2: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "mg.h3: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "mg.w2: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "mg.y: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "n.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "n7.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "nd.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "nh.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "nh.i: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "o1.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "of.u: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "om.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "p0.p1: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.e: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pd.i: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "pi.y1: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "q.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "q.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "q1.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "q1.v: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "q5.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qc.t: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qe.w: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qf.a0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qf.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qg.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "qh.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "r.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "r0.b0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "r2.l: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rh.b0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rh.d0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rh.l0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rh.n0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ro.o: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rp.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "rs.u: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "s6.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sa.n0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.c0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.e0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.f0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.h0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.i: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.i0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.j0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.k: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.k0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.l0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.m0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.n0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.p0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.q: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.r0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.s0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.t0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.y: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sc.z: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "si.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "sj.x: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "t0.c2: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ta.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "tf.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "tf.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "u1.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ue.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vd.l0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vd.p0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.a0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.c0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.e0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.t: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.v: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.x: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.y: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ve.z: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vf.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vf.e: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.d0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.g0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.o0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.p0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "vh.r0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "w.k: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "w4.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "w4.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wa.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wc.h: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wc.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wc.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wc.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "we.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "we.e: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "we.l: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "we.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "we.o: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wf.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.c: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.d: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.e: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.j: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "wg.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "x.e: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "x9.a0: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.k: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.n: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.o: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.p: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.q: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "xd.r: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ye.b: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ye.k: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "ys.g: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "zf.m: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "class", "ok": false, "detail": "zq.f: lost/empty"}
+{"ts": "2026-10-29T22:59:48+0530", "step": "summary", "ok": true, "detail": "java=0 smali=0 errors=252"}
+{"ts": "2026-10-29T22:59:49+0530", "step": "summary", "ok": true, "detail": "java=0 smali=0 errors=252"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "initialize", "ok": true, "detail": "{\"name\": \"jadx-headless-mcp\", \"version\": \"0.7.1\"}"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "tools/list", "ok": true, "detail": "26 tools, sha256 eea900c54df8"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "load_apk", "ok": true, "detail": "skipped: status reports the CLI-loaded APK"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "get_app_info", "ok": true, "detail": "1306 chars sha 5ab42ccc49bb"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "get_android_manifest", "ok": true, "detail": "594 chars sha 725757346047"}
+{"ts": "2026-10-29T23:10:45+0530", "step": "class inventory", "ok": true, "detail": "targeted=252"}

@@ -1,0 +1,42 @@
+{
+  "architecture": "plain-plugin",
+  "base_apk": {
+    "size": 49232880,
+    "sha256": "7da7795fc0f161378e35e4a7a489661daeb4d4d3b2a7646b55e07b22ff6ede94",
+    "source": "installed on-device (3 splits present: base + arm64_v8a + xxhdpi)"
+  },
+  "package": "com.brainrot.android",
+  "manifest_version": {
+    "versionCode": 494,
+    "versionName": "12.2.494",
+    "compileSdk": 36
+  },
+  "java_smali_counts": {
+    "java": 316,
+    "smali": 291
+  },
+  "total_classes": 607,
+  "app_code": "93 classes decompiled as java; remaining R8-obfuscated app classes decompiled as java/served as smali fallback in the same tree",
+  "coverage_estimate": "93/93 app-package classes as java; 405/405 of the classes that directly reference the app-package decompiled or smali-covered",
+  "components": {
+    "activities": [
+      "com.brainrot.android.MainActivity",
+      "com.brainrot.android.BlockReelsOverlayActivity",
+      "com.brainrot.android.PermissionStepsOverlayActivity",
+      "com.brainrot.android.RatingPromptOverlayActivity"
+    ],
+    "services": [
+      "com.brainrot.android.services.ReelsAccessibilityService",
+      "com.brainrot.android.services.BrainRotFirebaseMessagingService",
+      "com.brainrot.android.feature_fallback_counter.FallbackReelsCounterService",
+      "com.brainrot.android.floating_bubble.AppOpenFloatingService",
+      "com.brainrot.android.floating_bubble.ReelsCounterFloatingService"
+    ],
+    "receivers": [
+      "com.brainrot.android.core.receiver.DateChangedReceiver",
+      "com.brainrot.android.feature_widget.presentation.widget.ReelsCounterWidgetReceiver",
+      "com.brainrot.android.feature_subscription.domain.receiver.BackPressOfferExpiryNotificationReceiver"
+    ]
+  },
+  "notable_third_party": "RevenueCat purchases, Play Billing, Couchbase Lite, Hilt/Dagger, segment analytics, ExoPlayer, Glance widgets, Firebase, Pairip licensecheck"
+}

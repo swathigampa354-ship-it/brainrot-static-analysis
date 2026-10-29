@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battle_stats_wins">
+        <item quantity="one">%1$d vittoria</item>
+        <item quantity="other">%1$d vittorie</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="one">%1$d ora</item>
+        <item quantity="other">%1$d ore</item>
+    </plurals>
+</resources>

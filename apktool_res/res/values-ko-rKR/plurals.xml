@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battle_stats_wins">
+        <item quantity="one">%1$d승</item>
+        <item quantity="other">%1$d승</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="one">%1$d시간</item>
+        <item quantity="other">%1$d시간</item>
+    </plurals>
+</resources>

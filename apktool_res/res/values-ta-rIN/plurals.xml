@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battle_stats_wins">
+        <item quantity="one">%1$d வெற்றி</item>
+        <item quantity="other">%1$d வெற்றி</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="one">%1$d மணி</item>
+        <item quantity="other">%1$d மணி</item>
+    </plurals>
+</resources>
